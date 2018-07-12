@@ -21,7 +21,7 @@ Through this project, you will:
 
 ## User Interface
 
-<img src="../master/ui/1.jpg" width="250"> <img src="../master/ui/3.jpg" width="250">
+<img src="../master/ui/1.jpg" width="250"> <img src="../master/ui/2.jpg" width="250">
 
 ## License
 
