@@ -5,6 +5,7 @@
 This is my version of Udacity's Sandwich Club project. I build this as part of [Udacity Android Developer Nanodegree](https://eu.udacity.com/course/android-developer-nanodegree-by-google--nd801) program i've enrolled.
 
 ## Project Overview
+
 In this project, you will complete the **Sandwich Club** app to show the details of each sandwich once it is selected.
 
 ## Why this Project
@@ -20,11 +21,7 @@ Through this project, you will:
 
 ## User Interface
 
-![User Interface](../master/ui/1.jpg) ![User Interface](../master/ui/2.jpg)
-
-![User Interface](../master/ui/3.jpg) ![User Interface](../master/ui/4.jpg)
-
-![User Interface](../master/ui/5.jpg)
+<img src="../master/ui/1.jpg" width="250"> <img src="../master/ui/3.jpg" width="250">
 
 ## License
 
